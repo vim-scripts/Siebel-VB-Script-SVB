@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=975
+
+Siebel VBScript Syntax File. Since SVB is based on VBScript, this file takes the basic work by Johannes Zellner <johannes@zellner.org> on VB syntax files and adds support for Siebel specific stuff
